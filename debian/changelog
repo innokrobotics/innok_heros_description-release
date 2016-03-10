@@ -1,0 +1,30 @@
+ros-indigo-innok-heros-description (1.0.3-0trusty) trusty; urgency=high
+
+  * added missing run_depend
+  * added joint_state_publisher to get correct tf when launching RViz
+  * Contributors: Sabrina Heerklotz
+
+ -- Sabrina Heerklotz <sh@innok-robotics.de>  Wed, 09 Mar 2016 23:00:00 -0000
+
+ros-indigo-innok-heros-description (1.0.2-0trusty) trusty; urgency=high
+
+  * Fixed CMakeLists.txt
+  * Contributors: Sabrina Heerklotz
+
+ -- Sabrina Heerklotz <sh@innok-robotics.de>  Thu, 10 Dec 2015 23:00:00 -0000
+
+ros-indigo-innok-heros-description (1.0.1-0trusty) trusty; urgency=high
+
+  * fixed dependencies
+  * Contributors: Sabrina Heerklotz
+
+ -- Sabrina Heerklotz <sh@innok-robotics.de>  Mon, 19 Oct 2015 22:00:00 -0000
+
+ros-indigo-innok-heros-description (1.0.0-0trusty) trusty; urgency=high
+
+  * initial commit
+  * Contributors: Sabrina Heerklotz, Jonathan Hechtbauer
+
+ -- Sabrina Heerklotz <sh@innok-robotics.de>  Wed, 14 Oct 2015 22:00:00 -0000
+
+
