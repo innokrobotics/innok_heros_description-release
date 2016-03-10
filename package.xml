@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>innok_heros_description</name>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <description>Innok Heros URDF description and RVIZ launch file</description>
 
   <maintainer email="sh@innok-robotics.de">Sabrina Heerklotz</maintainer>
@@ -15,6 +15,7 @@
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roslaunch</build_depend>
   <run_depend>robot_state_publisher</run_depend>
+  <run_depend>joint_state_publisher</run_depend>
   <run_depend>xacro</run_depend>
   <run_depend>rviz</run_depend>
 
